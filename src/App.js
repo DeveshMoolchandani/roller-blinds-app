@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const endpoint = "https://corsproxy.io/?https://script.google.com/macros/s/AKfycbxllwGV-Iah_jaXX9fD_b4qg0fn4X2mg5PPXAS8XlnUvEIL99itPa2kvwQ6fdLCZPT2/exec";
+const endpoint = "/api/submit";
+
+
 
 
 
